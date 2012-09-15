@@ -1,6 +1,8 @@
 # Oracles
 
-This is just a simple web-app that randomly chooses and displays messages, intended to serve as inspiration for roleplaying games or fiction. There are a lot of these already (check out [Chaotic Shiny][SHINY] and [Abulafia][ABULAFIA]), and there's nothing especially novel about this one; it's just that the existing ones display very bare-bones HTML, but I wanted one that's as lovely as the book that inspired it.
+This is just a simple web-app that randomly chooses and displays messages, intended to serve as inspiration for roleplaying games or fiction. [See it in action][SITE].
+
+There are a lot of these already (check out [Chaotic Shiny][SHINY] and [Abulafia][ABULAFIA]), and there's nothing especially novel about this one; it's just that the existing ones display very bare-bones HTML, but I wanted one that's as lovely as the book that inspired it.
 
 That book is Vincent Baker's **_[In A Wicked Age][IAWA]_**, a dark fantasy sword-and-sorcery roleplaying game focused on storytelling. An integral part of the game is its four "Oracles": before each session the group draws four cards from one of these and uses the characters, locations and situations they describe.
 
@@ -21,7 +23,7 @@ There are already [two][ORACLE1] [different][ORACLE2] perfectly functional web i
 * Background textures are by Eos Design. (No license specified; free for personal/nonprofit use)
 * Code and markup are by me, [Jens][SNEJ]. (License is ... um, let's say Apache 2.)
 
-
+[SITE]: http://mooseyard.com/oracles/
 [SHINY]: http://chaoticshiny.com
 [ABULAFIA]: http://www.random-generator.com
 [IAWA]: http://www.lumpley.com/wicked.html
