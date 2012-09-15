@@ -2,7 +2,7 @@
 
 This is just a simple web-app that randomly chooses and displays messages, intended to serve as inspiration for roleplaying games or fiction. There are a lot of these already (check out [Chaotic Shiny][SHINY] and [Abulafia][ABULAFIA]), and there's nothing especially novel about this one; it's just that the existing ones display very bare-bones HTML, but I wanted one that's as lovely as the book that inspired it.
 
-That book is Vincent Baker's _[In A Wicked Age][IAWA]_, a dark fantasy sword-and-sorcery roleplaying game focused on storytelling. An integral part of the game is its four "Oracles": before each session the group draws four cards from one of these and uses the characters, locations and situations they describe.
+That book is Vincent Baker's **_[In A Wicked Age][IAWA]_**, a dark fantasy sword-and-sorcery roleplaying game focused on storytelling. An integral part of the game is its four "Oracles": before each session the group draws four cards from one of these and uses the characters, locations and situations they describe.
 
 There are already [two][ORACLE1] [different][ORACLE2] perfectly functional web implementations of these oracles -- as I said, mine is nothing novel -- but I wanted to add a few things...
 
@@ -15,7 +15,7 @@ There are already [two][ORACLE1] [different][ORACLE2] perfectly functional web i
 
 ## Credits
 
-* The oracle names and text are copyright &copy; 2007 Vincent Baker.
+* **The oracle names and text are copyright &copy; 2007 Vincent Baker.**
 * Macondo Swash Caps font is by John Vargas Beltrán. (SIL Open Font License)
 * Goudy Bookletter 1911 font is by Barry Schwartz, based on the original design by Frederick Goudy.  (SIL Open Font License)
 * Background textures are by Eos Design. (No license specified; free for personal/nonprofit use)
