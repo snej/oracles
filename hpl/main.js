@@ -52,7 +52,7 @@ function layoutSaying(saying) {
   if (saying.style)
     item.className = saying.style;
   var rot = (Math.random() - 0.5) * 10;
-  item.style["-webkit-transform"] = "rotate("+rot+"deg)";
+  item.style["-webkit-transform"] = item.style.MozTransform = "rotate("+rot+"deg)";
   
   return item;
 }
@@ -69,12 +69,14 @@ function randomItem(array) {
 function choose(oracle, n) {
   n = Math.min(n, oracle.length);
   result = n > 1 ? choose(oracle, n-1) : [];
+  
   var lastStyle;
   if (result.length > 0) {
     var last = result[result.length - 1];
     if (typeof last == "object")
       lastStyle = last.style;
   }
+  
   var choice;
   do {
     choice = randomItem(oracle);
