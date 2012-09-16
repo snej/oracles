@@ -1,5 +1,5 @@
-@import url(http://mooseyard.com/fonts/HPL.css);
-@import url(http://fonts.googleapis.com/css?family=Meddon);
+@import url('http://mooseyard.com/fonts/HPL.css');
+@import url('http://fonts.googleapis.com/css?family=Meddon|RockSalt');
 
 body {
 	background: url(bg/wood004.jpg);
@@ -34,7 +34,7 @@ li > span {
 /** ARTICLE **/
 
 li.article {
-	font: "Oldstyle HPLHS", serif;
+	font-family: "Oldstyle HPLHS", serif;
 	background: silver url(bg/paper_2.png);
 	padding: 0 16px;
 }
