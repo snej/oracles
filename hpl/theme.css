@@ -1,0 +1,122 @@
+@import url(http://mooseyard.com/fonts/HPL.css);
+@import url(http://fonts.googleapis.com/css?family=Meddon);
+
+body {
+	background: url(bg/wood004.jpg);
+}
+
+body.oracle_0 .banner {
+	background-image: url(../bg/eosbaga4a.jpg);
+  border-color: purple;
+}
+
+
+ul {
+	max-width: 800px;
+	padding-bottom: 30px;
+}
+
+li {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 0 16px;
+	list-style-type: none;
+	display: block;
+	width: auto;
+	background: silver url(bg/paper_2.png);
+	box-shadow: rgba(0,0,0, 0.5) 1px 2px 8px;
+}
+li > span {
+	padding: 16px;
+	width: auto;
+}
+
+/** ARTICLE **/
+
+li.article {
+	font: "Oldstyle HPLHS", serif;
+	background: silver url(bg/paper_2.png);
+	padding: 0 16px;
+}
+li.article > span {
+	padding: 0;
+	text-align: justify;
+}
+
+
+/** DIARY **/
+
+li.diary {
+	font-family: "Meddon";
+	padding: 14px 16px;
+	background-image: url(bg/handmadepaper.png);
+	box-shadow: rgba(0,0,0, 0.5) 1px 2px 8px;
+	color: #244800;
+}
+
+
+/** HEADLINE **/
+
+li.headline {
+	font: 300% "Headline HPLHS", serif;
+	padding: 8px;
+	text-align: center;
+}
+li.headline > span {
+	padding: 12px 16px 8px;
+	line-height: 1.5em;
+	text-transform: uppercase;
+	background: silver url(bg/paper_2.png);
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+}
+
+
+/** NOTEBOOK **/
+
+li.notes {
+	padding: 4px 16px;
+	background-image: url(bg/double_lined.png);
+	box-shadow: rgba(0,0,0, 0.5) 1px 2px 8px;
+	font: 90% "RockSalt";
+	color: #008;
+	line-height: 1.6em;
+}
+
+
+/** TELEGRAM **/
+
+li.telegram {
+	box-shadow: none;
+	background: none;
+}
+li.telegram > span {
+	font-family: "Telegram HPLHS", sans-serif;
+	text-transform: uppercase;
+ 	background: url(bg/Texture0115.jpg);
+ 	padding: 0px 24px 0px 24px;
+ 	line-height: 180%;
+	box-shadow: rgba(0,0,0, 0.5) 1px 2px 8px;
+}
+li.telegram > span:before {
+	content: "**";
+}
+li.telegram > span:after {
+	content: "**";
+}
+
+
+/** ANCIENT TOME **/
+
+li.tome {
+	padding: 16px 16px;
+	box-shadow: rgba(0,0,0, 0.5) 1px 2px 8px;
+	font-family: "Blackletter HPLHS", fantasy;
+	background: url(bg/Texture0217.jpg);
+	color: #5a2d00;
+	text-shadow: rgba(60,40,0, 0.9) 0px 0px 2px;
+}
+li.tome > span {
+}

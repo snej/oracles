@@ -1,0 +1,126 @@
+@import url(http://mooseyard.com/fonts/HPL.css);
+
+body {
+	font-family: "Oldstyle HPLHS", serif;
+}
+
+.banner {
+	padding: 8px;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	text-shadow: black 0 0 4px;
+	min-height: 18px;
+  border-color: #a61400;
+  border-width: 3px;
+}
+
+#topbanner {
+	margin: -8px -8px 0 -8px;
+  border-bottom-style: solid;
+}
+
+#bottombanner {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin-bottom: 0;
+  border-top-style: solid;
+	font-size: 18px;
+}
+body.index a.left, body.index a.right {
+	display: none;
+}
+
+.banner a {
+	text-decoration: none;
+	font-size: 18px;
+	color: white;
+}
+.banner a:hover {
+	text-shadow: yellow 0 0px 4px;
+}
+.banner a.left {
+	float: left;
+}
+.banner a.right {
+	float: right;
+}
+#topbanner a.left, #topbanner a.right {
+  font-size: 150%;
+  line-height: 80%;
+}
+body.index #banner a {
+	display: none;
+}
+
+h1 {
+	font-family: "WW2 Blackletter HPLHS", script;
+  font-weight: normal;
+	font-size: 64px;
+	color: #a61400;
+	text-shadow: rgba(111,111,111,0.44) 0 -1px 1px, white 0 1px 1px;
+	margin: 20px 0;
+  padding: 0 20px;
+}
+
+h1#topbanner {
+  color: white !important;
+}
+
+ul {
+	margin-bottom: 50px;
+}
+
+li {
+	font-size: 24px;
+	margin-bottom: 0.5em;
+	line-height: 1.25em;
+	list-style-type: square;
+	text-shadow: rgba(111,111,111,0.44) 0 -1px 3px;
+}
+
+body.index li {
+	font-family: "WW2 Blackletter HPLHS", script;
+	line-height: 2em;
+}
+
+a {
+	text-decoration: none;
+}
+
+/*
+body.oracle_1 {
+	background-image: url(bg/eosbaga4c.jpg);
+}
+body.oracle_1 .banner {
+	background-image: url(bg/eosbaga4a.jpg);
+  border-color: purple;
+}
+body.oracle_1 h1 {
+	color: purple;
+}
+
+body.oracle_2 {
+	background-image: url(bg/eosbaga3c.jpg);
+}
+body.oracle_2 .banner {
+	background-image: url(bg/eosbaga3a.jpg);
+  border-color: blue;
+}
+body.oracle_2 h1 {
+	color: blue;
+}
+
+body.oracle_3 {
+	background-image: url(bg/eosbaga2c.jpg);
+}
+body.oracle_3 .banner {
+	background-image: url(bg/eosbaga2a.jpg);
+  border-color: green;
+}
+body.oracle_3 h1 {
+	color: green;
+}
+*/
