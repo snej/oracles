@@ -33,12 +33,14 @@ function showOracle(index) {
   reloadOracle();
 }
   
-function reloadOracle() {
+function reloadOracle(delay) {
   clearOracle();
-  var sayings = choose(Oracle, NumItems);
-  for (var i=0; i<sayings.length; ++i) {
-    ResultList.appendChild(layoutSaying(sayings[i]));
-  }
+  setTimeout(function() {
+      var sayings = choose(Oracle, NumItems);
+      for (var i=0; i<sayings.length; ++i) {
+        ResultList.appendChild(layoutSaying(sayings[i]));
+      }
+  }, delay);
 }
 
 function layoutSaying(saying) {
