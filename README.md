@@ -23,7 +23,7 @@ Vincent Baker's **_[In A Wicked Age][IAWA]_** is a dark fantasy sword-and-sorcer
 
 ### Itras By
 
-[Itras By][ITRASBY] is a surreal role-playing game by Ole Peder Giæver and Martin Bull Gudmundsen, which takes place in the vaguely-1920s, vaguely-Nordic setting of the eponymous city. The game doesn't use dice; instead, decisions are resolved by drawing cards.
+**_[Itras By][ITRASBY]_** is a surreal role-playing game by Ole Peder Giæver and Martin Bull Gudmundsen, which takes place in the vaguely-1920s, vaguely-Nordic setting of the eponymous city. The game doesn't use dice; instead, decisions are resolved by drawing cards.
 
 **Resolution card text is copyright &copy; 2008-2012 Ole Peder Giæver and Martin Bull Gudmundsen (English translation by Ole Peder Giæver, Jimi Thaule, Martin Bull Gudmundsen, Magnus Jakobsson.)**
 
