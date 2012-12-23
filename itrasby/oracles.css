@@ -16,9 +16,13 @@ h1 {
     margin-bottom: 1in;
 }
 
+ul {
+	list-style-type: none;
+    padding: 0 40px;
+}
+
 li {
     display: block;
-	list-style-type: none;
     line-height: inherit;
 }
 
