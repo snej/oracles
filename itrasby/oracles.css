@@ -1,0 +1,27 @@
+@import url(../oracles.css);
+/*@import url(http://fonts.googleapis.com/css?family=Overlock:900italic);*/
+/*@import url(http://fonts.googleapis.com/css?family=Cutive);*/
+/*@import url(http://fonts.googleapis.com/css?family=Almendra:700italic,400italic);*/
+@import url(http://fonts.googleapis.com/css?family=Berkshire+Swash);
+
+a.left {
+    display: none;
+}
+
+h1 {
+    font-family: "Berkshire Swash", cursive;
+}
+
+#topbanner {
+    margin-bottom: 1in;
+}
+
+li {
+	list-style-type: none;
+    margin: 0 1in;
+}
+
+li h1 {
+    text-align: center;
+    margin-bottom: 0.5in;
+}
