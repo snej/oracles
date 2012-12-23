@@ -17,7 +17,9 @@ h1 {
 }
 
 li {
+    display: block;
 	list-style-type: none;
+    line-height: inherit;
 }
 
 li h1 {
