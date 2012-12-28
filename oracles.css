@@ -37,7 +37,6 @@ body.index a.left, body.index a.right {
 
 .banner a {
 	text-decoration: none;
-	font-size: 18px;
 	color: white;
 }
 .banner a:hover {
@@ -45,9 +44,11 @@ body.index a.left, body.index a.right {
 }
 .banner a.left {
 	float: left;
+	font-size: 18px;
 }
 .banner a.right {
 	float: right;
+	font-size: 18px;
 }
 #topbanner a.left, #topbanner a.right {
   font-size: 150%;
