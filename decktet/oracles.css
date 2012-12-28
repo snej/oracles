@@ -79,6 +79,9 @@ li img.zoomed {
 		text-align: left;
 		font-size: 80%;
 	}
+	li img {
+		    max-width: 250px;
+	}
 	li img.zoomed {
 		max-width: 100%;
 		position: absolute;

@@ -1,5 +1,7 @@
 # Oracles
 
+**by Jens Alfke**
+
 This is just a simple web-app that randomly chooses and displays messages, intended to serve as inspiration for roleplaying games or fiction. See it in action:
 
 * **[In A Wicked Age][SITE_IAWA]**
